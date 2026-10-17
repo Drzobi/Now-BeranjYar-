@@ -1,0 +1,8 @@
+{
+  "name": "Now-BeranjYar - دستیار هوشمند شالیکاری و برنج",
+  "description": "سامانه جامع و هوشمند مدیریت شالیکاری، تشخیص آفات و بیماری‌های برنج، راهنمای ارقام، تقویم زراعی و محاسبه‌گر تخصصی محصول شالیزار",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
